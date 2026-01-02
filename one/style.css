@@ -1,0 +1,33 @@
+*,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 10px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.form-input-group {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  gap: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
