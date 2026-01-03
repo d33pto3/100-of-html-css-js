@@ -1,4 +1,5 @@
 100 Mini Projects (HTML, CSS, JavaScript)
+
 🟢 Level 1: Core DOM + CSS Basics (1–20)
 
 Focus: DOM manipulation, events, layouts
