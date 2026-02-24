@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0 10px 0;
+}
+
+.color-container {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: white;
+}
+
+button {
+  box-shadow: none;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+#aquaMarine {
+  background-color: #7fffd4;
+}
+
+#olive {
+  background-color: #808000;
+}
+
+#lightSalmon {
+  background-color: #ffa07a;
+}
+
+#cadetBlue {
+  background-color: #5f9ea0;
+}
+
+#darkKhaki {
+  background-color: #bdb76b;
+}
+
+#aquaMarine,
+#olive,
+#lightSalmon,
+#cadetBlue,
+#darkKhaki {
+  cursor: pointer;
+}
