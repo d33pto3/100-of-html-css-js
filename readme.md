@@ -46,176 +46,176 @@ Focus: DOM manipulation, events, layouts
 
 🟡 Level 2: UI Components + Interactions (21–40)
 
-Focus: UX, reusable components, state
+21. Focus: UX, reusable components, state
 
-To-Do List (LocalStorage)
+22. To-Do List (LocalStorage)
 
-Notes App
+23. Notes App
 
-Password Generator
+24. Password Generator
 
-Weather UI (mock data)
+25. Weather UI (mock data)
 
-Search Filter
+26. Search Filter
 
-Pagination Component
+27. Pagination Component
 
-Rating Component ⭐
+28. Rating Component ⭐
 
-Toast Notification
+29. Toast Notification
 
-Dropdown Menu
+30. Dropdown Menu
 
 Custom Checkbox & Toggle
 
-Image Gallery Grid
+31. Image Gallery Grid
 
-Pricing Cards
+32. Pricing Cards
 
-Skeleton Loader
+33. Skeleton Loader
 
-Star Rating System
+34. Star Rating System
 
-Scroll Progress Indicator
+35. Scroll Progress Indicator
 
-Sticky Header
+36. Sticky Header
 
-Responsive Footer
+37. Responsive Footer
 
-Countdown Timer
+38. Countdown Timer
 
-Copy-to-Clipboard
+39. Copy-to-Clipboard
 
-Keyboard Event Visualizer
+40. Keyboard Event Visualizer
 
 🟠 Level 3: JavaScript Logic + Data Handling (41–60)
 
 Focus: arrays, objects, algorithms, edge cases
 
-Quiz App
+41. Quiz App
 
-Expense Tracker
+42. Expense Tracker
 
-Random Password Strength Checker
+43. Random Password Strength Checker
 
-URL Shortener (Frontend logic)
+44. URL Shortener (Frontend logic)
 
-Search Autocomplete
+45. Search Autocomplete
 
-Sorting Visualizer
+46. Sorting Visualizer
 
-Pagination with Dynamic Data
+47. Pagination with Dynamic Data
 
-Infinite Scroll
+48. Infinite Scroll
 
-Debounce & Throttle Demo
+49. Debounce & Throttle Demo
 
-Word Counter
+50. Word Counter
 
-Palindrome Checker
+51. Palindrome Checker
 
-Typing Speed Test
+52. Typing Speed Test
 
-Multi-Step Form
+53. Multi-Step Form
 
-Currency Converter (mock rates)
+54. Currency Converter (mock rates)
 
-Memory Card Game
+55. Memory Card Game
 
-Drag & Drop To-Do List
+56. Drag & Drop To-Do List
 
-Email Validator
+57. Email Validator
 
-Text Encrypt/Decrypt
+58. Text Encrypt/Decrypt
 
-Lottery Number Generator
+59. Lottery Number Generator
 
-Session Timeout Warning
+60. Session Timeout Warning
 
 🔵 Level 4: API-Based Projects (61–80)
 
 Focus: async JS, fetch, error handling
 
-Weather App (Real API)
+61. Weather App (Real API)
 
-Movie Search App (OMDB)
+62. Movie Search App (OMDB)
 
-GitHub Profile Finder
+63. GitHub Profile Finder
 
-Country Info App
+64. Country Info App
 
-News App
+65. News App
 
-Random User Generator
+66. Random User Generator
 
-Recipe Finder
+67. Recipe Finder
 
-Unsplash Image Search
+68. Unsplash Image Search
 
-Currency Converter (Live API)
+69. Currency Converter (Live API)
 
-IP Address Tracker
+70. IP Address Tracker
 
-COVID Stats App
+71. COVID Stats App
 
-Dictionary App
+72. Dictionary App
 
-Joke Generator
+73. Joke Generator
 
-Meme Generator
+74. Meme Generator
 
-Spotify UI Clone (UI only)
+75. Spotify UI Clone (UI only)
 
-Stock Price Tracker
+76. Stock Price Tracker
 
-NASA Image Viewer
+77. NASA Image Viewer
 
-QR Code Generator
+78. QR Code Generator
 
-URL Metadata Preview
+79. URL Metadata Preview
 
-Chat UI (Frontend only)
+80. Chat UI (Frontend only)
 
 🔴 Level 5: Advanced UI + Real-World Patterns (81–100)
 
 Focus: architecture, performance, polish
 
-Kanban Board
+81. Kanban Board
 
-Trello-Style Task Manager
+82. Trello-Style Task Manager
 
-Authentication UI Flow
+83. Authentication UI Flow
 
-Admin Dashboard
+84. Admin Dashboard
 
-Real-Time Search UI
+85. Real-Time Search UI
 
-File Upload UI
+86. File Upload UI
 
-Custom Video Player
+87. Custom Video Player
 
-E-Commerce Product Page
+88. E-Commerce Product Page
 
-Shopping Cart (LocalStorage)
+89. Shopping Cart (LocalStorage)
 
-Form Builder
+90. Form Builder
 
-Drag & Drop Image Editor
+91. Drag & Drop Image Editor
 
-Resume Builder
+92. Resume Builder
 
-Online Code Editor
+93. Online Code Editor
 
-Data Table with Sort/Filter
+94. Data Table with Sort/Filter
 
-Chat Application UI
+95. Chat Application UI
 
-Booking Calendar
+96. Booking Calendar
 
-Blog Platform (Frontend)
+97. Blog Platform (Frontend)
 
-Landing Page Builder
+98. Landing Page Builder
 
-Portfolio Generator
+99. Portfolio Generator
 
-Mini CMS Dashboard
+100.  Mini CMS Dashboard
